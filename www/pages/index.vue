@@ -6,7 +6,7 @@
     <img :src="logo" alt="Polar Bear Logo" class="h-32" />
     <br />
     <h1 class="text-4xl text-white">
-      Coming Soon
+      Dev Environment
     </h1>
   </div>
 </template>
