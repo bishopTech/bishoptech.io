@@ -3,9 +3,11 @@
     :style="image"
     class="h-screen flex flex-col bg-cover justify-center items-center"
   >
-    <img :src="logo" alt="Polar Bear Logo" class="h-32" /><br />
-
-    <h1 class="text-4xl text-white">Coming Soon!</h1>
+    <img :src="logo" alt="Polar Bear Logo" class="h-32" />
+    <br />
+    <h1 class="text-4xl text-white">
+      Coming Soon
+    </h1>
   </div>
 </template>
 
